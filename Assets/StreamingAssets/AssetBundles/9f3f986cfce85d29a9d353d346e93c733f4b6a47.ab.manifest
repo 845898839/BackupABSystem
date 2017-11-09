@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 964390885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60078726eb1b31dfea874973bc98c02a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/hello.jpg
+Dependencies: []
